@@ -1,0 +1,6 @@
+{
+  "Artist": {"S": "Foo Fighters"},
+  "SongTitle": {"S": "Everlong"},
+  "AlbumTitle": {"S": "The Colour and the Shape"},
+  "SongYear": {"S": "1997"}
+}

@@ -1,0 +1,34 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Foo Fighters"},
+                  "SongTitle": {"S": "Everlong"},
+                  "AlbumTitle": {"S": "The Colour and the Shape"},
+                  "SongYear": {"S": "1997"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Foo Fighters"},
+                  "SongTitle": {"S": "Walk"},
+                  "AlbumTitle": {"S": "Wasting Light"},
+                  "SongYear": {"S": "2011"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Foo Fighters"},
+                  "SongTitle": {"S": "Learn to Fly"},
+                  "AlbumTitle": {"S": "There Is Nothing Left to Lose"},
+                  "SongYear": {"S": "1999"}
+                }
+            }
+        }
+      ]
+}
